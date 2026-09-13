@@ -2,6 +2,10 @@
 
 A lightweight E-Commerce REST API built with Node.js and Express.js using JSON files for persistent storage.
 
+## Live Link
+
+**https://itm-assignment-07-ecommerce-api.onrender.com/**
+
 ## Technologies Used
 
 - Node.js
